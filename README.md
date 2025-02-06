@@ -1,4 +1,4 @@
-
+![Alt text](relative/path/to/image.png)
 
 The idea for this code was given to me by Dr. Catherine Schuman, who wrote a code that turned people's names and birthdays in to factals for a Code with your Daughter event at ORNL. 
 
