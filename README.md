@@ -8,3 +8,5 @@ It then uses those values as inputs for an algorithm that creates a kind of frac
 I used OpenAI chat o1 to help me document and clean up the code. 
 
 Please enjoy. Fork and modify – make it your own in every way and amplify how cool it is do math and programming. 
+
+![Suzanne PK_fractal](images/sc25_fractal_20250206_144303.png)
