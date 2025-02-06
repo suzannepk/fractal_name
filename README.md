@@ -1,4 +1,4 @@
-![Suzanne PK_fractal](./images/Suzanne_PK_fractal_20250206_144238.png)
+![Suzanne PK_fractal](images/SuzannePK_fractal_20250206_144238.png)
 
 The idea for this code was given to me by Dr. Catherine Schuman, who wrote a code that turned people's names and birthdays in to factals for a Code with your Daughter event at ORNL. 
 
